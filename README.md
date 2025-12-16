@@ -28,8 +28,6 @@ All test artifacts are available in Google Docs/Sheets:
 | 📄 **Test Plan** | Testing strategy and approach | [View Document](LINK_TO_TEST_PLAN) |
 | 📝 **Test Cases** | Detailed test scenarios with steps | [View Document](LINK_TO_TEST_CASES) |
 | 🔗 **RTM** | Requirements Traceability Matrix | [View Document](LINK_TO_RTM) |
-| 🐛 **Bug Report** | Defect documentation | [View Document](LINK_TO_BUG_REPORT) |
-
 ---
 
 ## 🔬 Testing Scope
